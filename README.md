@@ -15,17 +15,17 @@ This Smart Attendance System leverages RFID technology to automate attendance tr
 
 ## Introduction
 
-The Smart Attendance System is a robust and automated solution designed to streamline attendance tracking using RFID technology. Built on the NodeMCU ESP8266 platform and integrated with Firebase, this system enables seamless attendance logging by scanning RFID cards or tags. The project features a real-time display of attendance status on an I2C LCD, making it user-friendly and efficient for various environments such as offices, labs, and institutions. By leveraging cloud-based storage, it ensures secure and reliable data management, allowing for easy retrieval and analysis of attendance records.
+The Smart Attendance System is a robust and automated solution designed to streamline attendance tracking using RFID technology. Built on the NodeMCU ESP8266 platform and integrated with Firebase, this system enables seamless attendance logging by scanning RFID cards or tags. The project features a real-time display of attendance status on an I2C LCD, making it user friendly and efficient for various environments such as offices, labs and educational institutions. By leveraging cloud based storage, it ensures secure and reliable data management, allowing for easy retrieval and analysis of attendance records.
 
 This project serves as a scalable, modern solution that eliminates the need for manual attendance management, providing a highly efficient system for real-time tracking.
 
 
 ## Features
 
-- Real-Time Attendance Monitoring: Automatically logs attendance when an RFID card is scanned.
-- Instant Feedback: Displays the attendance status on an I2C LCD display.
-- Cloud Storage: Attendance data is stored in Firebase for easy retrieval and analysis.
-- Scalable Design: The system can be adapted for various environments like offices, libraries, and labs.
+- **Real-Time Attendance Monitoring:** Automatically logs attendance when an RFID card is scanned.
+- **Instant Feedback:** Displays the attendance status on an I2C LCD display.
+- **Cloud Storage:** Attendance data is stored in Firebase for easy retrieval and analysis.
+- **Scalable Design:** The system can be adapted for various environments like offices, libraries, and labs.
 
 ## Components Required
 
