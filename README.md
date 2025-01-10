@@ -7,7 +7,7 @@ This Smart Attendance System leverages RFID technology to automate attendance tr
 - [Features](#features)
 - [Components Required](#componentsrequired)
 - [Circuit Diagram](#circuitdiagram)
-- [Connecting DHT11 with Arduino UNO](#connectingDHT11witharduinoUNO)
+- [Connecting NodeMCU with RC522](#connectingnodemcuwithrc522)
 - [Working of Project](#WorkingofProject)
 - [Installation](#installation)
 - [Contact](#contact)
