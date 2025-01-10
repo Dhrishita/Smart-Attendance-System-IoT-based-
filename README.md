@@ -5,10 +5,10 @@ This Smart Attendance System leverages RFID technology to automate attendance tr
 
 - [Introduction](#introduction)
 - [Features](#features)
-- [Components Required](#componentsrequired)
-- [Circuit Diagram](#circuitdiagram)
-- [Connecting NodeMCU with RC522](#connectingnodemcuwithrc522)
-- [Working of Project](#WorkingofProject)
+- [Components Required](#components-required)
+- [Circuit Diagram](#circuit-diagram)
+- [Connecting NodeMCU with RC522](#connecting-nodemcu-with-rc522)
+- [Working of Project](#Working-of-Project)
 - [Installation](#installation)
 - [Contact](#contact)
 
